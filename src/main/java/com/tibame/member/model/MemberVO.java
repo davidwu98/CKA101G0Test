@@ -4,6 +4,6 @@ public class MemberVO {
 	
 	private Integer memNo;
 	private String memName;
-	
+	private String password;
 	
 }
